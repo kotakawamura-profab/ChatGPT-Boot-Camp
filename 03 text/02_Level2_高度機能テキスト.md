@@ -715,9 +715,9 @@ https://openai.com/ja-JP/index/introducing-gpt-5/
 
 【静的ファイル（プロジェクトに保管）】
 - 契約書作成ガイドライン（業務委託・請負）.docx  
-  [contract_guideline.docx](../../sample/contract_guideline.docx)
+  [contract_guideline.docx](https://docs.google.com/document/d/17UVkts19VzpSpglrj3y6pRfMqyhAGLWB/edit?usp=sharing&ouid=112379965251259358810&rtpof=true&sd=true)
 - 契約書雛形ファイル  
-  [contract_template.docx](../../sample/contract_template.docx)
+  [contract_template.docx](https://docs.google.com/document/d/1aKgpvKH4yaetlLTvxH-PVTSJCArUB5No/edit?usp=sharing&ouid=112379965251259358810&rtpof=true&sd=true)
 
 【指示（カスタムプロンプト）】
 ```
@@ -733,7 +733,7 @@ https://openai.com/ja-JP/index/introducing-gpt-5/
 
 【レビュー対象ファイル（チャット時にアップロード）】
 - 業務委託契約書（ドラフト）.docx  
-  /sample/draft_contract.docx
+  [draft_contract.docx](https://docs.google.com/document/d/1rcOFWqE1GbspymuO0hb9PY64WRLMLdO-/edit?usp=sharing&ouid=112379965251259358810&rtpof=true&sd=true)
 
 【プロンプト例】
 ```
@@ -994,7 +994,7 @@ ChatGPT:「これでロゴ設計スタジオの基本仕様は整いました。
 契約書雛形をもとに、ステップバイステップでGPTが回答して出来上がった契約書をダウンロードできるようにする
 
 【静的ファイル（プロジェクトに保管）】
-- [contract_template.docx](../../sample/contract_template.docx)（契約書雛形ファイル）
+- [contract_template.docx](https://docs.google.com/document/d/1aKgpvKH4yaetlLTvxH-PVTSJCArUB5No/edit?usp=sharing&ouid=112379965251259358810&rtpof=true&sd=true)（契約書雛形ファイル）
 
 【初回のプロンプト】
 ```

@@ -740,7 +740,7 @@ SNS投稿、エレベーターピッチ、エグゼクティブサマリーな�
 |------|------|
 | 文章のチェック | 作成した契約書の品質を向上させたい |
 
-**参照ファイル**: [sample_document.txt](../sample/sample_document.txt)
+**参照ファイル**: [sample_document.txt](https://drive.google.com/file/d/1-a_JY87ycWR3aLgDnI4n40B5I_zkn12-/view?usp=sharing)
 
 **プロンプト例**:
 ```
@@ -758,7 +758,7 @@ SNS投稿、エレベーターピッチ、エグゼクティブサマリーな�
 |------|------|
 | 情報の整形 | 従業員満足度調査結果から優先対応すべき課題を特定したい |
 
-**参照ファイル**: [survey_results.txt](../sample/survey_results.txt)
+**参照ファイル**: [survey_results.txt](https://drive.google.com/file/d/12BdbLmbZFbiFopI5jyb3yqYSVw7mn-7r/view?usp=sharing)
 
 **プロンプト例**:
 ```
@@ -889,7 +889,7 @@ ChatGPT Teamのファイルアップロード機能は、従来の文書作業�
 |------|------|
 | Word文書分析 | 来年度事業計画書の内容を経営陣に簡潔に説明したい |
 
-**参照ファイル**: [business_plan_2025.docx](../sample/business_plan_2025.docx)
+**参照ファイル**: [business_plan_2025.docx](https://docs.google.com/document/d/1IDYdHi82eXk33OlS6a0yh5K1iHisGAIw/edit?usp=sharing&ouid=112379965251259358810&rtpof=true&sd=true)
 
 **プロンプト例**:
 ```
@@ -907,7 +907,7 @@ ChatGPT Teamのファイルアップロード機能は、従来の文書作業�
 |------|------|
 | Excel文書分析 | 複雑なExcelファイルの構造と内容を把握したい |
 
-**参照ファイル**: [Toyota_Performance_Management.xlsx](../sample/Toyota_Performance_Management.xlsx)
+**参照ファイル**: [Toyota_Performance_Management.xlsx](https://docs.google.com/spreadsheets/d/1KQcSRQcAmvepnXB-UZ1T0bYN6lPj3ws0/edit?usp=sharing&ouid=112379965251259358810&rtpof=true&sd=true)
 
 **プロンプト例**:
 ```
@@ -925,7 +925,7 @@ ChatGPT Teamのファイルアップロード機能は、従来の文書作業�
 |------|------|
 | PDF文書分析 | AI技術論文の内容を理解して社内勉強会で発表したい |
 
-**参照ファイル**: [Attention Is All You Need.pdf](../sample/Attention%20Is%20All%20You%20Need.pdf)
+**参照ファイル**: [Attention Is All You Need.pdf](https://drive.google.com/file/d/1Rf60J5v9gefleGKzRGNwnf-zGiA6xXXq/view?usp=sharing)
 
 **プロンプト例**:
 ```
@@ -1031,7 +1031,7 @@ ChatGPTの画像認識機能は、ビジョンモデルを活用して画像・�
 |------|------|
 | 手書き文書の文字起こし | 手書きで作成されたドキュメントを正確にデジタル化したい |
 
-**参照ファイル**: [sample_handwriting.png](../sample/sample_handwriting.png)
+**参照ファイル**: [sample_handwriting.png](https://drive.google.com/file/d/1kOFYEWSqUCFwq9gmZeMa9uAe1ztrma8c/view?usp=sharing)
 
 **プロンプト例**:
 ```
@@ -1048,7 +1048,7 @@ ChatGPTの画像認識機能は、ビジョンモデルを活用して画像・�
 |------|------|
 | Excelの操作方法確認 | Excel画面のスクリーンショットから具体的な操作方法を理解したい |
 
-**参照ファイル**: [sample_excel_header.png](../sample/sample_excel_header.png)
+**参照ファイル**: [sample_excel_header.png](https://drive.google.com/file/d/1BGuUzWvu6fC-0R4HTQyXlq1ueGSHeVI1/view?usp=sharing)
 
 **プロンプト例**:
 ```
@@ -1066,7 +1066,7 @@ ChatGPTの画像認識機能は、ビジョンモデルを活用して画像・�
 |------|------|
 | 電気図面の解釈 | 閉鎖型配電盤の結線図を読み取り、システム構成を理解したい |
 
-**参照ファイル**: [sample_閉鎖型配電盤_結線.png](../sample/sample_閉鎖型配電盤_結線.png)
+**参照ファイル**: [sample_閉鎖型配電盤_結線図.png](https://drive.google.com/file/d/1aOClzzRQaeSNFCfvuPIY1kg7svkJ9M4N/view?usp=sharing)
 
 **プロンプト例**:
 ```
@@ -1180,7 +1180,7 @@ ADA機能は、ChatGPT内部の隔離された安全な実行環境（サンド�
 |------|------|
 | 統計解析と相関分析（広告費と売上の関係を見る） | 広告費と売上がどれくらい関係しているかをざっくり把握する |
 
-**参照ファイル**: [sample_marketing_stats.csv](../sample_files/sample_marketing_stats.csv)
+**参照ファイル**: [sample_marketing_stats.csv](https://drive.google.com/file/d/1mq39aoZrnrzCMT0NxbwUNnr2RQqHZ1P6/view?usp=sharing)
 
 **プロンプト例**:
 ```
@@ -1201,7 +1201,7 @@ sample_marketing_stats.csv を読み込み、
 |------|------|
 | 重複データの自動検出と整理（商品マスタの品質改善） | 商品データの中に重複や欠けている値があるので、自動で直したい |
 
-**参照ファイル**: [sample_data_quality.csv](../sample_files/sample_data_quality.csv)
+**参照ファイル**: [sample_data_quality.csv](https://drive.google.com/file/d/1dVu_L4D3PfqRb6-EkymHWxdczX6UXLn0/view?usp=sharing)
 
 **プロンプト例**:
 ```
@@ -1222,7 +1222,7 @@ sample_data_quality.csv を読み込み、
 |------|------|
 | クラスタリングによる顧客グループ分け | 似た特徴の顧客を自動でグループ分けして特徴を知る |
 
-**参照ファイル**: [sample_customer_segmentation.csv](../sample_files/sample_customer_segmentation.csv)
+**参照ファイル**: [sample_customer_segmentation.csv](https://drive.google.com/file/d/1T-9QzG1buFU-LcekSoRqWcIx0I_UERLd/view?usp=sharing)
 
 **プロンプト例**:
 ```
@@ -1332,7 +1332,7 @@ ADA機能でグラフを作成する際、日本語の文字が正しく表示�
 **対処法**
 Google fontのNoto Sans JPフォントをsampleフォルダからダウンロードし、チャット欄にアップロードして使用してください。
 
-**参照フォントファイル**: [NotoSansJP-Regular.ttf](../sample_files/NotoSansJP-Regular.ttf)
+**参照フォントファイル**: [NotoSansJP-Regular.ttf](https://drive.google.com/file/d/1DzAsZAFy6ndEFTKbEFeGNY7kQsqaSg7Z/view?usp=sharing)
 
 #### ハンズオン演習
 
@@ -1351,7 +1351,7 @@ Google fontのNoto Sans JPフォントをsampleフォルダからダウンロー
 |------|------|
 | 統計解析と相関分析（広告費と売上の関係を見る） | 広告費と売上がどれくらい関係しているかをざっくり把握する |
 
-**参照ファイル**: [sample_marketing_stats.csv](../sample_files/sample_marketing_stats.csv)
+**参照ファイル**: [sample_marketing_stats.csv](https://drive.google.com/file/d/1mq39aoZrnrzCMT0NxbwUNnr2RQqHZ1P6/view?usp=sharing)
 
 **プロンプト例**:
 ```
@@ -1367,7 +1367,7 @@ sample_marketing_stats.csv を読み込み、
 |------|------|
 | 重複データの自動検出と整理（商品マスタの品質改善） | 商品データの中に重複や欠けている値があるので、自動で直したい |
 
-**参照ファイル**: [sample_data_quality.csv](../sample_files/sample_data_quality.csv)
+**参照ファイル**: [sample_data_quality.csv](https://drive.google.com/file/d/1dVu_L4D3PfqRb6-EkymHWxdczX6UXLn0/view?usp=sharing)
 
 **プロンプト例**:
 ```
@@ -1384,7 +1384,7 @@ sample_data_quality.csv を読み込み、
 |------|------|
 | クラスタリングによる顧客グループ分け | 似た特徴の顧客を自動でグループ分けして特徴を知る |
 
-**参照ファイル**: [sample_customer_segmentation.csv](../sample_files/sample_customer_segmentation.csv)
+**参照ファイル**: [sample_customer_segmentation.csv](https://drive.google.com/file/d/1T-9QzG1buFU-LcekSoRqWcIx0I_UERLd/view?usp=sharing)
 
 **プロンプト例**:
 ```
