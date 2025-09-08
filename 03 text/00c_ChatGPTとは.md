@@ -97,13 +97,13 @@ ChatGPTは用途や必要な機能に応じて、5つのプランから選択で
 
 ChatGPTは主にチャット画面のテキストエリアに質問や指示を入力することで使用します。
 
-![チャット画面の基本操作](../images/txt_chatgpt_browser.png)
+![チャット画面の基本操作](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_browser.png)
 
 ### モデル切り替え
 
 上部のモデルセレクターから、使用するAIモデルを切り替えることができます。GPT-5、o1シリーズ、GPT-4oなどから選択可能です。
 
-![モデルセレクターの操作](../images/txt_chagpt_modelpicker.png)
+![モデルセレクターの操作](https://profab.co.jp/wp-content/uploads/2025/09/txt_chagpt_modelpicker.png)
 
 ### サイドバーメニュー
 
@@ -114,7 +114,7 @@ ChatGPTは主にチャット画面のテキストエリアに質問や指示を�
 3. **チャットの検索** - 過去の会話を検索
 4. **画像ファイルのドライブ** - アップロードした画像の管理
 
-![サイドバーメニューの構成](../images/txt_chagpt_sidebar.png)
+![サイドバーメニューの構成](https://profab.co.jp/wp-content/uploads/2025/09/txt_chagpt_sidebar.png)
 
 ### 設定メニュー
 
@@ -124,21 +124,21 @@ ChatGPTは主にチャット画面のテキストエリアに質問や指示を�
 - **言語** - 表示言語の変更
 - その他のパーソナライズ設定
 
-![設定メニューの画面](../images/txt_chagpt_setting.png)
+![設定メニューの画面](https://profab.co.jp/wp-content/uploads/2025/09/txt_chagpt_setting.png)
 
-![一般の画面](../images/txt_chagpt_general.png)
+![一般の画面](https://profab.co.jp/wp-content/uploads/2025/09/txt_chagpt_general.png)
 
 ### メモリ機能
 
 ChatGPTは過去のやり取りをサマライズして保管するメモリ機能があります。この機能により、継続的な会話でより良い応答を提供できます。メモリの内容は設定から編集することができます。
 
-![メモリ機能の設定画面](../images/txt_chatgpt_memory.png)
+![メモリ機能の設定画面](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_memory.png)
 
 ### データコントロール
 
 再学習を回避するためのデータコントロール設定も用意されています。プライバシーを重視する場合は、この設定から会話データの使用を制限できます。
 
-![データコントロール設定画面](../images/txt_chatgpt_datacontorol.png)
+![データコントロール設定画面](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_datacontorol.png)
 
 ---
 

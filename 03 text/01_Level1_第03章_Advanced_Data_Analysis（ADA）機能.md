@@ -23,12 +23,12 @@ ChatGPT TeamのAdvanced Data Analysis機能は、ChatGPT内部に安全に隔離
 ADA機能は、ユーザーがその活用を明示的に宣言する必要がありません。
 Excelファイルをアップロードし、分析を依頼するだけで、ChatGPTが自動的にADA機能を起動し、最適な分析手法を選択してコードを生成・実行します。
 
-![ADA機能でPythonコードが自動生成され、データ分析が実行されている画面](../images/txt_chatgpt_ada.png)
+![ADA機能でPythonコードが自動生成され、データ分析が実行されている画面](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_ada.png)
 
 さらに、複数のシートを持つExcelファイルの場合、シート選択インターフェースが表示され、必要なシートを選んで個別に分析することができます。
 これにより、複雑な表計算データも直感的に操作・分析することが可能です。
 
-![Excelファイルの複数シートから選択して分析できる画面](../images/txt_chatgpt_sheetview.png)
+![Excelファイルの複数シートから選択して分析できる画面](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_sheetview.png)
 
 🔧 **ADA機能の主要な特徴**
 
@@ -169,7 +169,7 @@ sample_customer_segmentation.csv を読み込み、
 効果的なデータ可視化は、複雑なデータから瞬時に洞察を抽出し、意思決定を加速させます。
 ADA機能では、単なるグラフ作成を超えて、統計的に意味のある可視化とビジネスインサイトの同時提供を実現します。
 
-![ChatGPTでの画像生成例：富士山の風景](../images/txt_chatgpt_fujisan.png)
+![ChatGPTでの画像生成例：富士山の風景](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_fujisan.png)
 
 💡 **ビジネスに活きるグラフ選択の基準**
 

@@ -17,11 +17,11 @@ ChatGPT Teamのプロジェクト機能は、関連するチャット・ファ�
 
 サイドバー左側からプロジェクトの設定画面に移動できます。
 
-![txt_chatgpt_project](../images/txt_chatgpt_project.png)
+![txt_chatgpt_project](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_project.png)
 
 プロジェクトの編集画面では、左下の箇所からファイルアップロードが、右下の箇所からカスタムプロンプトを追加することができます。
 
-![txt_chatgpt_project_edit](../images/txt_chatgpt_project_edit.png)
+![txt_chatgpt_project_edit](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_project_edit.png)
 
 📊 **プロジェクト機能の主要特徴**
 
@@ -276,14 +276,14 @@ ChatGPTの**「プロジェクト」**と**「GPT（カスタムGPT）」**は�
 「どんなAIにしたいか？」の質問に答えるだけで自動設定できます。
 
 サイドバーからGPTに移動します。
-![txt_chatgpt_gpt](../images/txt_chatgpt_gpt.png)
+![txt_chatgpt_gpt](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_gpt.png)
 
 右上の「作成する」から作成画面へ進みます。
-![txt_chatgpt_gpt_make](../images/txt_chatgpt_gpt_make.png)
+![txt_chatgpt_gpt_make](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_gpt_make.png)
 
 左側のチャット欄で質問に答える形で自動的に設定が出来上がります。
 
-![txt_chatgpt_gpt_edit](../images/txt_chatgpt_gpt_edit.png)
+![txt_chatgpt_gpt_edit](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_gpt_edit.png)
 
 **対話イメージ**:
 ```
@@ -312,7 +312,7 @@ ChatGPT:「これでロゴ設計スタジオの基本仕様は整いました。
 
 左側エリアの項目を入れていく方法もあります（詳細は後述）。
 
-![txt_chatgpt_gpt_customize](../images/txt_chatgpt_gpt_customize.png)
+![txt_chatgpt_gpt_customize](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_gpt_customize.png)
 
 
 ⚙️ **カスタムGPTの手動設定項目**
@@ -485,15 +485,15 @@ ChatGPTのScheduled Tasks機能は、定期的なリマインダーや自動実�
 
 チャット欄に自然言語で直接指示を入力することで、簡単にタスクを設定できます。例えば「毎日朝8時に今日のスケジュールをリマインドして」のような指示を入力すると、ChatGPTが自動的にタスクを設定し、確認メッセージを表示します。日時・頻度・実行内容をすべて自然言語で指定可能です。
 
-![txt_chatgpt_schedule](../images/txt_chatgpt_schedule.png)
+![txt_chatgpt_schedule](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_schedule.png)
 
 2. **タスクの管理・編集**
 
 プロフィールアイコンから「Tasks」を選択すると、作成済みタスクの一覧を確認できます。各タスクの編集・一時停止・削除が可能で、通知設定の変更（Web・メール・モバイル）も行えます。
 
-![txt_chatgpt_schedule_edit](../images/txt_chatgpt_schedule_edit.png)
+![txt_chatgpt_schedule_edit](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_schedule_edit.png)
 
-![txt_chatgpt_schedule_editted](../images/txt_chatgpt_schedule_editted.png)
+![txt_chatgpt_schedule_editted](https://profab.co.jp/wp-content/uploads/2025/09/txt_chatgpt_schedule_editted.png)
 
 📊 **活用パターン**
 
